@@ -1,0 +1,10 @@
+{
+  "name": "abstract-factory-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matheus Braga Ribeiro",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
